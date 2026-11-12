@@ -1,0 +1,10 @@
+Scenario,Trial,Duration(s),Distance(m),Near-Collisions,Switches,Min Dist(m),Avg Min Dist(m),Wander(s),Wall Follow(s),Avoid(s)
+Open Space,1,30.1,6.66,0,28,0.329,0.684,17.9,1.6,10.6
+Open Space,2,31.0,2.72,0,28,0.356,0.377,6.8,0.0,21.1
+Open Space,3,32.2,2.67,0,30,0.398,0.467,6.3,0.0,22.9
+Obstacle Course,1,45.0,9.73,13,22,0.163,0.815,20.7,1.8,22.5
+Obstacle Course,2,45.0,9.75,0,38,0.277,0.564,25.8,0.0,19.2
+Obstacle Course,3,45.0,9.90,0,77,0.347,0.387,23.2,0.0,21.8
+Wall Following,1,30.1,3.36,0,30,0.347,0.468,8.5,0.0,21.5
+Wall Following,2,31.0,8.93,0,11,0.379,0.967,14.1,7.8,6.3
+Wall Following,3,32.4,7.83,0,1,0.597,0.647,2.1,27.0,0.0
